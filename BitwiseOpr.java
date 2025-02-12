@@ -7,9 +7,9 @@ public class BitwiseOpr
 	   int c= a&b;
 	   int d=a|b;
 	   int e= a^b;
-	      System.out.println(c);
-	  	  System.out.println(d);
-      	  System.out.println(e);
+	      System.out.println("And operator:"+(c));
+	  	  System.out.println("Or operator:"+(d));
+      	  System.out.println("Exor operator:"+(e));
 
 	}
 }
